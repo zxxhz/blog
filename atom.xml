@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.emoing.cc</id>
+    <title>Gridea</title>
+    <updated>2023-06-21T04:48:35.818Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.emoing.cc"/>
+    <link rel="self" href="https://blog.emoing.cc/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.emoing.cc/images/avatar.png</logo>
+    <icon>https://blog.emoing.cc/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://blog.emoing.cc/post/ce-shi-wen-zhang/</id>
+        <link href="https://blog.emoing.cc/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2023-06-21T04:48:04.000Z</updated>
+        <content type="html"><![CDATA[<p>test测试</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://blog.emoing.cc/post/about/</id>
+        <link href="https://blog.emoing.cc/post/about/">
+        </link>
+        <updated>2023-06-21T04:31:10.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>博主心血来潮搞的</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>zxxhz</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>Python，Minecraft，硬件</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>QQ1582891850</p>
+]]></content>
+    </entry>
+</feed>
